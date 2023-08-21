@@ -2,15 +2,16 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #ffffcc;
+    background-color: #ff7174;
 }
 
 img{
     border: 10px solid green;
+    border-radius: 1rem;
 }
 
 h1{
-    border: 5px dotted red;
+    border: 5px dotted #dbdbdb;
 }
 
 blockquote{
@@ -18,6 +19,7 @@ blockquote{
     font-size: 3rem;
     font-style: italic;
     text-align: center;
+    border: 5px double #7143bc;
 }
 
 cite{
@@ -28,6 +30,17 @@ cite{
 .bigbold{
     font-weight: bold;
     font-size: 1.3rem;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    color: crimson;
+    background-color: #ff71ff;
+    border-radius: 1rem;
+    padding: 0.2rem;
 }
 
 
