@@ -2,16 +2,18 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #ff7174;
+    background-color: #EFDFCC;
 }
 
 img{
-    border: 10px solid green;
+    border: 10px solid #D7A184;
     border-radius: 1rem;
 }
 
 h1{
-    border: 5px dotted #dbdbdb;
+    border: 5px dotted #D4C2AD;
+    color: #66796B;
+    text-align: center;
 }
 
 blockquote{
@@ -19,7 +21,7 @@ blockquote{
     font-size: 3rem;
     font-style: italic;
     text-align: center;
-    border: 5px double #7143bc;
+    border: 5px double #D7A184;
 }
 
 cite{
@@ -34,13 +36,13 @@ cite{
 
 a:link{
     text-decoration: none;
+    padding: 0.3rem;
 }
 
 a:hover{
-    color: crimson;
-    background-color: #ff71ff;
+    color: #66796B;
+    background-color: #BA8E7A;
     border-radius: 1rem;
-    padding: 0.2rem;
 }
 
 
