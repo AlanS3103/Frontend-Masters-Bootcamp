@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #F2F2F2;
+    color: #593325;
+    padding: 1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1, h3 {
+    color: #D98B48;
+}
+
+p {
+    padding: .6rem 0rem;
+}
+
+blockquote {
+    padding: 0rem 0rem 0rem 2rem;
+    color: #A65729;
+    border: double .3rem;
+}
+
+ol {
+    padding: .5rem 2rem;
+}
+
+a:link{
+    color: #A65729;
+}
+
+a:visited {
+    color: #D98B48;
+}
+
+a:hover {
+    color: #F2D7B6;
+    font-style: italic;
+}
