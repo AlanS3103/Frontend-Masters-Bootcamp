@@ -1,10 +1,11 @@
 # Frontend-Masters-Bootcamp
 A repository with exercises I was doing to master my frontend skills
 
-Links:
+# Frontend Masters Links:
 
-FrontEnd Masters Bootcamp:
-FrontEnd Masters Bootcamp documentation: https://frontendmasters.github.io/bootcamp/
+FrontEnd Masters Bootcamp: https://frontendmasters.com/bootcamp/ <br>
+FrontEnd Masters Bootcamp documentation: https://frontendmasters.github.io/bootcamp/<br>
 
-boxModel on CodePen: https://codepen.io/alans3103/pen/vYvNdJq
-remVsEm on CodePen: https://codepen.io/alans3103/pen/oNJxjPg
+# CodePen Links:
+boxModel on CodePen: https://codepen.io/alans3103/pen/vYvNdJq <br>
+remVsEm on CodePen: https://codepen.io/alans3103/pen/oNJxjPg <br>
