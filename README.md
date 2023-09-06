@@ -10,3 +10,6 @@ FrontEnd Masters Bootcamp documentation: https://frontendmasters.github.io/bootc
 boxModel on CodePen: https://codepen.io/alans3103/pen/vYvNdJq <br>
 remVsEm on CodePen: https://codepen.io/alans3103/pen/oNJxjPg <br>
 navigationBar on CodePen: https://codepen.io/alans3103/pen/qBLZOed <br>
+Flexbox CodePen: https://codepen.io/alans3103/pen/NWebojz <br>
+Horizontal navigation bar styling CodePen: https://codepen.io/alans3103/pen/ZEVpMOR <br>
+Vertical navigation bar styling CodePen: https://codepen.io/alans3103/pen/qBLZOed <br>
