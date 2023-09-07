@@ -7,9 +7,9 @@ FrontEnd Masters Bootcamp: https://frontendmasters.com/bootcamp/ <br>
 FrontEnd Masters Bootcamp documentation: https://frontendmasters.github.io/bootcamp/<br>
 
 # CodePen Links:
-boxModel on CodePen: https://codepen.io/alans3103/pen/vYvNdJq <br>
-remVsEm on CodePen: https://codepen.io/alans3103/pen/oNJxjPg <br>
-navigationBar on CodePen: https://codepen.io/alans3103/pen/qBLZOed <br>
-Flexbox CodePen: https://codepen.io/alans3103/pen/NWebojz <br>
-Horizontal navigation bar styling CodePen: https://codepen.io/alans3103/pen/ZEVpMOR <br>
+boxModel CodePen: https://codepen.io/alans3103/pen/vYvNdJq <br>
+Understanding rem vs em CodePen: https://codepen.io/alans3103/pen/oNJxjPg <br>
 Vertical navigation bar styling CodePen: https://codepen.io/alans3103/pen/qBLZOed <br>
+Horizontal navigation bar styling CodePen: https://codepen.io/alans3103/pen/ZEVpMOR <br>
+Flexbox CodePen: https://codepen.io/alans3103/pen/NWebojz <br>
+Exploring floats and clears CodePen: https://codepen.io/alans3103/pen/vYvgONX <br> 
